@@ -1,0 +1,12 @@
+{
+  "files": [],
+  "references": [
+    {
+      //*
+      "path": "./tsconfig.vi-work.json",
+      /*/
+      "path": "./tsconfig.vi-configdir.json",
+      //*/
+    }
+  ]
+}
